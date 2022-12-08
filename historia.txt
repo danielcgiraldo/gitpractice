@@ -1,1 +1,1 @@
-hola esta es la historia .txt
+Creamos blogpost con html y le agregamos unos estilos. Todo esto fue echo de una forma muy básica.
