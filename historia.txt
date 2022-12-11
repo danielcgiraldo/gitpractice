@@ -2,3 +2,4 @@ Creamos blogpost con html y le agregamos unos estilos. Todo esto fue echo de una
 Ahora vamos a probar un commit.
 Vamos a probar git reset HEAD.
 Vamos a añadir una línea acá para solucionar conflictos.
+Ahora nos ubicamos en la branch cabecera.
